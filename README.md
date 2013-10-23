@@ -1,12 +1,16 @@
-#Frontend Development Tools & Resources
----
+Frontend Development Tools & Resources
+======================================
 
-A list of selected front-end resources, articles and tools by [zedix](https://twitter.com/zedix).
+> A list of selected front-end resources, articles and tools by [zedix](https://twitter.com/zedix).
+
 Originally inspired by the [Landscaping With Front-end Tools](https://github.com/codylindley/frontend-tools) by [codylindley](https://github.com/codylindley).
+
+---
 
 ##Web Platform
 
 * [Move the Web Forward](http://movethewebforward.org/)
+* [Extensible Web Manifesto](http://extensiblewebmanifesto.org/)
 
 ####Latest news and resources
 
@@ -27,11 +31,13 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 * [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/)
 * [Web Components Resources](http://ebidel.github.io/webcomponents/) by Eric Bidelman
+* [HTML5 Rocks](https://www.google.com/#fp=501e3a7c68104311&q=(site%3Ahtml5rocks.com+inurl%3Awebcomponents)+OR+(site%3Aupdates.html5rocks.com+webcomponents))
 * [Polymer JS](http://polymer-project.org/) Set of polyfills
-* [Mozilla Brick](http://mozilla.github.io/brick/) UI Components for Modern Web Apps
 * [X-Tags](http://www.x-tags.org/)
+* [Mozilla Brick](http://mozilla.github.io/brick/) UI Components for Modern Web Apps
+* [CustomElements.io](http://customelements.io/) Web Components Gallery
 * [Building Next Generation Widgets with Web Components](http://tech.pro/tutorial/1421/building-next-generation-widgets-with-web-components)
-* [Web Components Gallery](http://customelements.io/)
+
 
 ####HTML5 Boilerplate
 
@@ -67,6 +73,8 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
     1. Keep style separate from content
     2. Avoid specificity by harnessing the cascade
 * [BEM (Block, Element, Modifier)](http://bem.info/)
+* [MCSS (Multilayer CSS)](http://operatino.github.io/MCSS/en/) [Multilayer CSS](http://operatino.github.io/MCSS/examples/layers/) organization methodology (based on BEM/OOCSS principles)
+
 
 ---
 
@@ -116,8 +124,9 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ####Responsive Design (RWD)
 
+* [Responsive Design Knowledge Hub](http://www.ugurus.com/responsive-design) (★)
 * [This is responsive](http://bradfrost.github.io/this-is-responsive/) Patterns, resources and news for creating responsive web experiences (★)
-$ [RWD resources](https://gist.github.com/stowball/6577178) Articles and resources on responsive design approaches and workflows
+* [RWD resources](https://gist.github.com/stowball/6577178) Articles and resources on responsive design approaches and workflows
 * [Future-Friendly Thinking](http://futurefriend.ly/thinking.html)
 * [Responsive Images Community Group](http://responsiveimages.org/)
 * [Responsive Navigation Patterns](http://responsivenavigation.net/)
@@ -145,6 +154,7 @@ $ [RWD resources](https://gist.github.com/stowball/6577178) Articles and resourc
 
 ####WebDesign Tools
 
+* [Google Web Designer](http://www.google.com/webdesigner/) (★)
 * [Macaw](http://macaw.co/peek/) The code-savvy web design tool
 * [WebFlow](http://www.webflow.com/) Responsive WebDesign Tool
 * [Red Pen](http://redpen.io/) Effing fast feedback
@@ -168,14 +178,17 @@ $ [RWD resources](https://gist.github.com/stowball/6577178) Articles and resourc
 * [Favicon cheatsheet](https://github.com/audreyr/favicon-cheat-sheet) A painfully obsessive cheat sheet to favicon sizes/types (★)
 * [Mobile + Tablet Device Dimensions](http://stefhatcher.com/projects/device-dimensions/)
 * [iOS Design Cheat Sheet](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/)
+* [iOS 7 Design Resources](https://developer.apple.com/library/ios/design/index.html#//apple_ref/doc/uid/TP40013289) Official guidelines all in one place 
 * [HTML5 compatibility on mobile](http://mobilehtml5.org/)
 * [DevDocs](http://devdocs.io/)
 * [JavaScript Keycodes](http://keycodes.atjayjo.com/)
+* [Master of the :nth-child](http://nthmaster.com/)
 
 ####Mobile
 
 * [A tale of two viewports](http://www.quirksmode.org/mobile/viewports.html)
-* [SpeedLimit](http://mschrag.github.io/ Throttle a fast internet down (mac app)
+* [SpeedLimit](http://mschrag.github.io/), [SlowyApp](http://slowyapp.com/) Throttle a fast internet down (mac app)
+
 
 ####Images optimizations
 * [Tiny PNG](http://tinypng.org/) Shrink PNG files
@@ -189,8 +202,10 @@ $ [RWD resources](https://gist.github.com/stowball/6577178) Articles and resourc
 
 ####Fonts && Typography
 
+* [Typographisme](http://typographisme.net/)
 * [Font generator](http://prototypo.io/)
 * [Born Typeface](http://www.carlosdetoro.com/born-en/) A beautiful Humanist Serif free Typeface
+* [Norwester](http://jamiewilson.io/norwester/) A condensed geometric sans serif free Typeface
 
 ##Testing
 
