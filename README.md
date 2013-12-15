@@ -1,5 +1,5 @@
-Frontend Development Tools & Resources
-======================================
+Frontend Tools & Resources
+==========================
 
 > A list of selected front-end resources, articles and tools by [zedix](https://twitter.com/zedix).
 
@@ -38,7 +38,6 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [CustomElements.io](http://customelements.io/) Web Components Gallery
 * [Building Next Generation Widgets with Web Components](http://tech.pro/tutorial/1421/building-next-generation-widgets-with-web-components)
 
-
 ####HTML5 Boilerplate
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/) (★)
@@ -61,6 +60,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Pure](http://purecss.io/) Set of minimal, responsive CSS modules by Yahoo
 * [Foundation](http://foundation.zurb.com/) Responsive front-end framework
 * [UIkit](http://www.getuikit.com/)
+* [Init](http://use-init.com/)
 
 
 ####CSS Scalability and Modularity
@@ -82,6 +82,9 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 * [CSS Guidelines, high-level guidelines for writing manageable, maintainable CSS](https://github.com/csswizardry/CSS-Guidelines)
 * [Maintainable CSS with BEM](http://integralist.co.uk/Maintainable-CSS-with-BEM.html)
+* [Scalable And Maintainable CSS](http://www.vanseodesign.com/css/scalable-maintainable/)
+* [Front-end and UI style guides](http://sideproject.io/front-end-and-ui-style-guides/)
+* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#Section_Comments)
 
 ---
 
@@ -100,13 +103,24 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 * [The 4 JavaScript Load Times](http://fr.slideshare.net/nzakas/enough-withthejavascriptalready)
 
+#####Coding Standards
+
+* [JavaScript Style Guide In the Wild](https://github.com/airbnb/javascript#in-the-wild)
+
+#####Documentation generators ([comparison](http://blog.fusioncharts.com/2013/12/jsdoc-vs-yuidoc-vs-doxx-vs-docco-choosing-a-javascript-documentation-generator/))
+
+* [JSDoc](https://github.com/jsdoc3/jsdoc)
+* [Docco](http://jashkenas.github.io/docco/)
+* [Doxx](https://github.com/FGRibreau/doxx)
+* [YUIDoc](http://yui.github.io/yuidoc/)
+
 ---
 
 #####Librairies
 
 * [Micro frameworks](http://microjs.com/)
 * [Ractive.js](http://www.ractivejs.org/)
-* [Component.io](http://component.io/)
+* [Component.io](http://component.io/) [Component module list](https://github.com/component/component/wiki/Components)
 
 ---
 
@@ -119,6 +133,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Boxes and Arrows](http://boxesandarrows.com/)
 * [WebDesign Practises](http://webdesignpractices.com/)
 * [Should I use a carousel?](http://shouldiuseacarousel.com) - [Carousel Interaction Stats](http://weedygarden.net/2013/07/carousel-interaction-stats/)
+* [Float Label Pattern](http://bradfrostweb.com/blog/post/float-label-pattern/)
 
 ---
 
@@ -140,10 +155,19 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Picture element polyfill](https://github.com/scottjehl/picturefill) 
 * [Smashing Conf: Real Life Responsive Design](http://www.lukew.com/ff/entry.asp?1792)
 
+####Responsive Design (RWD) > Typography
+
+* [Responsive Typography techniques](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
+* [Responsive Typography roundup](http://www.awwwards.com/responsive-typography-a-roundup-of-the-best-articles-and-tutorials.html)
+
 ---
+
+##Web Design
 
 ####Inspiration (UI)
 
+* [Pattern Tap](http://patterntap.com/) UI pattern library
+* [Links to Inspire](http://www.linkstoinspire.co.uk/) Links to inspire you all in one place
 * [UI Animations](http://ui-animations.tumblr.com/)
 * [Daily Dose of Inspiring 6sec Transitions and Animations Saved for Reference](http://sixux.com/)
 * [Mobile App transitions](http://capptivate.co)
@@ -155,10 +179,17 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 ####WebDesign Tools
 
 * [Google Web Designer](http://www.google.com/webdesigner/) (★)
-* [Macaw](http://macaw.co/peek/) The code-savvy web design tool
-* [WebFlow](http://www.webflow.com/) Responsive WebDesign Tool
-* [Red Pen](http://redpen.io/) Effing fast feedback
+* [Macaw](http://macaw.co/peek/) The code-savvy Web Design Tool
+* [WebFlow](http://www.webflow.com/) Responsive Web Design Tool
+* [Typecast](http://typecast.com/) Typography-first Web Design Tool
 * [Optimizely](https://www.optimizely.com/) A/B testing
+
+---
+
+####WebDesign Reviews
+
+* [Red Pen](http://redpen.io/) Effing fast feedback
+* [InVison](http://www.invisionapp.com/)
 
 ---
 
@@ -173,7 +204,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 * [CSP Is Awesome](http://cspisawesome.com/) Generate a Content-Security-Policy header
 
-####References && Cheat sheets
+####References & Cheat sheets
 
 * [Favicon cheatsheet](https://github.com/audreyr/favicon-cheat-sheet) A painfully obsessive cheat sheet to favicon sizes/types (★)
 * [Mobile + Tablet Device Dimensions](http://stefhatcher.com/projects/device-dimensions/)
@@ -183,11 +214,13 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [DevDocs](http://devdocs.io/)
 * [JavaScript Keycodes](http://keycodes.atjayjo.com/)
 * [Master of the :nth-child](http://nthmaster.com/)
+* [Git cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 
 ####Mobile
 
 * [A tale of two viewports](http://www.quirksmode.org/mobile/viewports.html)
 * [SpeedLimit](http://mschrag.github.io/), [SlowyApp](http://slowyapp.com/) Throttle a fast internet down (mac app)
+* [CSS critical path snippet](http://paul.kinlan.me/detecting-critical-above-the-fold-css/)
 
 
 ####Images optimizations
@@ -200,13 +233,27 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Meet the Ipsums](http://meettheipsums.com) Plenty of Lorem Ipsums (still, use real content when you prototype)
 
 
-####Fonts && Typography
+####Fonts & Typography
 
 * [Typographisme](http://typographisme.net/)
 * [Font generator](http://prototypo.io/)
 * [Born Typeface](http://www.carlosdetoro.com/born-en/) A beautiful Humanist Serif free Typeface
+* [Adobe Blank Typeface](https://github.com/adobe/brackets-edge-web-fonts/blob/master/styles/adobe-blank.css) [Two clever usage](http://scottkellum.com/2013/10/25/the-new-kellum-method.html)
 * [Norwester](http://jamiewilson.io/norwester/) A condensed geometric sans serif free Typeface
+* [Grux](http://wegraphics.net/downloads/grux-hand-written-web-font/) A free Hand Written Web Font
+
+
+####Colors
+
+* [Color Scheme Designer](http://colorschemedesigner.com/)
+* [Color Template](http://www.rocket-design.fr/color-template/)
+* [Kuler](http://kuler.adobe.com/)
 
 ##Testing
 
 * [Sauce Labs](https://saucelabs.com/)
+
+#### Automation & workflow
+
+* [Automating front-end workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow)
+
