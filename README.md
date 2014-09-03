@@ -11,20 +11,36 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 * [Move the Web Forward](http://movethewebforward.org/)
 * [Extensible Web Manifesto](http://extensiblewebmanifesto.org/)
+* [Browser technologies](http://platform.html5.org/) The Web platform: Browser technologies
+* [Google's curated resource for building modern websites](https://developers.google.com/web/fundamentals/)
+* [Specifiction](http://specifiction.org/) Conversations about Web standards 
 
 ####Latest news and resources
 
 * [Chrome Status](http://www.chromestatus.com/) Tracking HTML5 feature implementations for Chrome
+* [IE status](http://status.modern.ie/) What’s available or what’s coming in Internet Explorer
 * [Peter Beverloo](http://peter.sh/) WebKit changes
 * [SidebarIO](http://sidebar.io/) Curated 5 best design links, every day (★)
 * [Collective News](http://tympanus.net/codrops/collective/) Weekly resources curated by [Codrops](http://tympanus.net/codrops/) (★)
 * [Pixels & code](http://www.inpixelitrust.fr/blog/en/useful-links/) Weekly resources curated by [walterstephanie](https://twitter.com/walterstephanie)
 * [Web Platform Daily](http://webplatformdaily.org/) Open Web Platform Daily Digest (★)
-* [Web Design Weekly](http://web-design-weekly.com/)
-* [HTML5 Weekly](http://html5weekly.com/)
 * [HTML5 Bookmarks](http://www.html5bookmarks.com/) Daily news articles and bookmarks
-* [JavaScript Weekly](http://javascriptweekly.com/)
 * [Reddit Web Design](http://www.reddit.com/r/web_design/)
+* [Curated resources for everything creative](http://oozled.com/resources/latest)
+
+#### Weekly newsletters
+
+* [HTML5 Weekly](http://html5weekly.com/)
+* [Web Design Weekly](http://web-design-weekly.com/)
+* [Responsive Design Weekly](http://responsivedesignweekly.com/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [CSS Weekly](http://css-weekly.com/)
+* [Web Tools Weekly](http://webtoolsweekly.com/)
+
+
+####Web Application Frameworks
+
+* [Web Application Frameworks](https://github.com/showcases/web-application-frameworks?s=stars)
 
 
 ####Web Components
@@ -40,6 +56,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ####HTML5 Boilerplate
 
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit/) The ultimate boilerplate for responsive websites and multi-device experiences with a visual design system for documenting site components and many other features.
 * [HTML5 Boilerplate](http://html5boilerplate.com/) (★)
 * [HTML5 Bones](http://html5bones.com/)
 * [FireShell](http://getfireshell.com/) Front-end boilerplate and workflows, HTML5, Grunt, Sass
@@ -54,13 +71,17 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [z-index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 * [Justified and Vertically Centered Header Elements](http://tympanus.net/codrops/2013/07/14/justified-and-vertically-centered-header-elements)
 
-####CSS Frameworks
+####CSS Frameworks ([comparison](http://usablica.github.io/front-end-frameworks/compare.html))
 
 * [Bootstrap](http://twitter.github.com/bootstrap/) Set of minimal, responsive CSS modules by Twitter
-* [Pure](http://purecss.io/) Set of minimal, responsive CSS modules by Yahoo
+* [Pure](http://purecss.io/) Set of minimal, responsive CSS modules by Yahoo (05/2013)
+* [Topcoat](http://topcoat.io/) Open source CSS library by Adobe (06/2013) [Guidelines](https://github.com/topcoat/topcoat/wiki/Coding-Guidelines#4-selectors)
 * [Foundation](http://foundation.zurb.com/) Responsive front-end framework
 * [UIkit](http://www.getuikit.com/)
 * [Init](http://use-init.com/)
+* [Effeckt.css](http://h5bp.github.io/Effeckt.css/dist/) UI-less, performant transitions & animations
+* [Inuit](http://inuitcss.com/) Sass-based, BEM, OOCSS framework.
+* [TypePlate](http://typeplate.com/) Sass-based typographic kit
 
 
 ####CSS Scalability and Modularity
@@ -68,12 +89,27 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [OOCSS (Object-Oriented CSS)](https://github.com/stubbornella/oocss/wiki)
     1. Separate structure and skin.
     2. Separate container and content.
+    -> A class defined by itself is later redefined as a child of something else.
 * [SMACSS (Scalable and Modular Architecture for CSS)](http://smacss.com/)
 * [DRY CSS](http://vimeo.com/38063798)
     1. Keep style separate from content
     2. Avoid specificity by harnessing the cascade
-* [BEM (Block, Element, Modifier)](http://bem.info/)
+* [BEM (Block, Element, Modifier)](http://bem.info/) [topcoat.io example](http://topcoat.io/topcoat/#radio-button)
 * [MCSS (Multilayer CSS)](http://operatino.github.io/MCSS/en/) [Multilayer CSS](http://operatino.github.io/MCSS/examples/layers/) organization methodology (based on BEM/OOCSS principles)
+* [ACSS (Atomic CSS)](http://coding.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/) My Yahoo [Blog post](http://engineering.appfolio.com/2012/11/16/css-architecture/) "Style things without always having to write more CSS rules"
+* [Organic CSS](https://github.com/krasimir/organic-css)
+* [CSS Guidelines](http://cssguidelin.es/) High-level advice and guidelines for writing sane, manageable, scalable CSS
+
+
+####CSS Processors
+
+* [Myth](http://www.myth.io/) A postprocessor that polyfills CSS.
+
+####CSS Tools
+
+* [Critical Path CSS Generator](http://jonassebastianohlsson.com/criticalpathcssgenerator/)
+* [StyleStats](http://www.stylestats.org) CSS Statistics
+* [UIGradient](http://uigradients.com/) Beautiful colour gradients
 
 
 ---
@@ -85,6 +121,8 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Scalable And Maintainable CSS](http://www.vanseodesign.com/css/scalable-maintainable/)
 * [Front-end and UI style guides](http://sideproject.io/front-end-and-ui-style-guides/)
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#Section_Comments)
+* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+* [@mdo’s CSS code guide](http://mdo.github.io/code-guide/) By the creator of Bootstrap
 
 ---
 
@@ -129,6 +167,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [A Good User Interface](http://www.goodui.org) Shared ideas by Jakub Linowski (★)
 * [UI Patterns](http://ui-patterns.com/patterns) UI Design Pattern library (★)
 * [UX Movement](http://uxmovement.com/)
+* [UX Myths](http://uxmyths.com/)
 * [UI Engineering](http://www.uie.com/articles/)
 * [Boxes and Arrows](http://boxesandarrows.com/)
 * [WebDesign Practises](http://webdesignpractices.com/)
@@ -173,6 +212,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Mobile App transitions](http://capptivate.co)
 * [Type Hunting](http://typehunting.com/)
 * [App designs and icons made for iOS 7](http://madeforios7.tumblr.com/)
+* [Capptivate: iOS UI Animations](http://capptivate.co/)
 
 ---
 
@@ -223,24 +263,35 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [CSS critical path snippet](http://paul.kinlan.me/detecting-critical-above-the-fold-css/)
 
 
-####Images optimizations
+####Images
 * [Tiny PNG](http://tinypng.org/) Shrink PNG files
 * [Compress PNG](http://compresspng.com/)
+* [Picture Slash!](http://pictureslash.com)
 * [Tools for image optimization](http://addyosmani.com/blog/image-optimization-tools/)
+* [Favicon generator](http://favicon.il.ly/) A really simple favicon generator (with mobile favicons)
+
+
+####Resources
+
+* [Thestocks.im](http://thestocks.im/) The best royalty free
+stock photos in one place
+* [Pexels](http://www.pexels.com/) Best Free Photos In One Place
 
 ####Others
 
 * [Meet the Ipsums](http://meettheipsums.com) Plenty of Lorem Ipsums (still, use real content when you prototype)
-
+* [Gridzzly](http://gridzzly.com/) Paper grid to print generator
 
 ####Fonts & Typography
 
 * [Typographisme](http://typographisme.net/)
+* [Typo Guide](http://www.typogui.de/) Interesting Links & Resources
 * [Font generator](http://prototypo.io/)
 * [Born Typeface](http://www.carlosdetoro.com/born-en/) A beautiful Humanist Serif free Typeface
 * [Adobe Blank Typeface](https://github.com/adobe/brackets-edge-web-fonts/blob/master/styles/adobe-blank.css) [Two clever usage](http://scottkellum.com/2013/10/25/the-new-kellum-method.html)
 * [Norwester](http://jamiewilson.io/norwester/) A condensed geometric sans serif free Typeface
 * [Grux](http://wegraphics.net/downloads/grux-hand-written-web-font/) A free Hand Written Web Font
+* [Redacted font](https://github.com/christiannaths/Redacted-Font) Keep your wireframes free of distracting Lorem Ipsum
 
 
 ####Colors
