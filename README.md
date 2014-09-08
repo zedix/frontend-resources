@@ -97,6 +97,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [BEM (Block, Element, Modifier)](http://bem.info/) [topcoat.io example](http://topcoat.io/topcoat/#radio-button)
 * [MCSS (Multilayer CSS)](http://operatino.github.io/MCSS/en/) [Multilayer CSS](http://operatino.github.io/MCSS/examples/layers/) organization methodology (based on BEM/OOCSS principles)
 * [ACSS (Atomic CSS)](http://coding.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/) My Yahoo [Blog post](http://engineering.appfolio.com/2012/11/16/css-architecture/) "Style things without always having to write more CSS rules"
+* [AMCSS](http://glenmaddern.com/articles/introducing-am-css) Attribute Modules for CSS
 * [Organic CSS](https://github.com/krasimir/organic-css)
 * [CSS Guidelines](http://cssguidelin.es/) High-level advice and guidelines for writing sane, manageable, scalable CSS
 * [A Scalable CSS Reading List](https://github.com/davidtheclark/scalable-css-reading-list)
