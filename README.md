@@ -7,7 +7,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ---
 
-##Web Platform
+## Web Platform
 
 * [Move the Web Forward](http://movethewebforward.org/)
 * [Extensible Web Manifesto](http://extensiblewebmanifesto.org/)
@@ -15,7 +15,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Google's curated resource for building modern websites](https://developers.google.com/web/fundamentals/)
 * [Specifiction](http://specifiction.org/) Conversations about Web standards 
 
-####Latest news and resources
+#### Latest news and resources
 
 * [Chrome Status](http://www.chromestatus.com/) Tracking HTML5 feature implementations for Chrome
 * [IE status](http://status.modern.ie/) What’s available or what’s coming in Internet Explorer
@@ -38,12 +38,12 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Web Tools Weekly](http://webtoolsweekly.com/)
 
 
-####Web Application Frameworks
+#### Web Application Frameworks
 
 * [Web Application Frameworks](https://github.com/showcases/web-application-frameworks?s=stars)
 
 
-####Web Components
+#### Web Components
 
 * [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/)
 * [Web Components Resources](http://ebidel.github.io/webcomponents/) by Eric Bidelman
@@ -54,7 +54,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [CustomElements.io](http://customelements.io/) Web Components Gallery
 * [Building Next Generation Widgets with Web Components](http://tech.pro/tutorial/1421/building-next-generation-widgets-with-web-components)
 
-####HTML5 Boilerplate
+#### HTML5 Boilerplate
 
 * [Google Web Starter Kit](https://developers.google.com/web/starter-kit/) The ultimate boilerplate for responsive websites and multi-device experiences with a visual design system for documenting site components and many other features.
 * [HTML5 Boilerplate](http://html5boilerplate.com/) (★)
@@ -66,12 +66,12 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ---
 
-##CSS
+## CSS
 
 * [z-index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 * [Justified and Vertically Centered Header Elements](http://tympanus.net/codrops/2013/07/14/justified-and-vertically-centered-header-elements)
 
-####CSS Frameworks ([comparison](http://usablica.github.io/front-end-frameworks/compare.html))
+#### CSS Frameworks ([comparison](http://usablica.github.io/front-end-frameworks/compare.html))
 
 * [Bootstrap](http://twitter.github.com/bootstrap/) Set of minimal, responsive CSS modules by Twitter
 * [Pure](http://purecss.io/) Set of minimal, responsive CSS modules by Yahoo (05/2013)
@@ -84,7 +84,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [TypePlate](http://typeplate.com/) Sass-based typographic kit
 
 
-####CSS Scalability and Modularity
+#### CSS Scalability and Modularity
 
 * [OOCSS (Object-Oriented CSS)](https://github.com/stubbornella/oocss/wiki)
     1. Separate structure and skin.
@@ -103,11 +103,11 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [A Scalable CSS Reading List](https://github.com/davidtheclark/scalable-css-reading-list)
 
 
-####CSS Processors
+#### CSS Processors
 
 * [Myth](http://www.myth.io/) A postprocessor that polyfills CSS.
 
-####CSS Tools
+#### CSS Tools
 
 * [Critical Path CSS Generator](http://jonassebastianohlsson.com/criticalpathcssgenerator/)
 * [StyleStats](http://www.stylestats.org) CSS Statistics
@@ -116,7 +116,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ---
 
-####CSS Guidelines
+#### CSS Guidelines
 
 * [CSS Guidelines, high-level guidelines for writing manageable, maintainable CSS](https://github.com/csswizardry/CSS-Guidelines)
 * [Maintainable CSS with BEM](http://integralist.co.uk/Maintainable-CSS-with-BEM.html)
@@ -128,7 +128,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ---
 
-####CSS Flexbox
+#### CSS Flexbox
 
 * [Flexbox CSS Reference](http://ptb2.me/flexbox/)
 * [W3C Spec Changes](http://dev.w3.org/csswg/css-flexbox/#changes)
@@ -137,9 +137,9 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [A thorough presentation on Flexbox](http://zomigi.com/blog/flexbox-presentation/)
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/) Showcase of what flexbox can solve on the web
 
-##JavaScript
+## JavaScript
 
-#####Performance
+##### Performance
 
 * [The 4 JavaScript Load Times](http://fr.slideshare.net/nzakas/enough-withthejavascriptalready)
 
@@ -156,7 +156,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ---
 
-#####Librairies
+##### Librairies
 
 * [Micro frameworks](http://microjs.com/)
 * [Ractive.js](http://www.ractivejs.org/)
@@ -164,7 +164,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ---
 
-##UX & UI
+## UX & UI
 
 * [A Good User Interface](http://www.goodui.org) Shared ideas by Jakub Linowski (★)
 * [UI Patterns](http://ui-patterns.com/patterns) UI Design Pattern library (★)
@@ -178,7 +178,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ---
 
-####Responsive Design (RWD)
+#### Responsive Design (RWD)
 
 * [Responsive Design Knowledge Hub](http://www.ugurus.com/responsive-design) (★)
 * [This is responsive](http://bradfrost.github.io/this-is-responsive/) Patterns, resources and news for creating responsive web experiences (★)
@@ -196,16 +196,16 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Picture element polyfill](https://github.com/scottjehl/picturefill) 
 * [Smashing Conf: Real Life Responsive Design](http://www.lukew.com/ff/entry.asp?1792)
 
-####Responsive Design (RWD) > Typography
+#### Responsive Design (RWD) > Typography
 
 * [Responsive Typography techniques](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
 * [Responsive Typography roundup](http://www.awwwards.com/responsive-typography-a-roundup-of-the-best-articles-and-tutorials.html)
 
 ---
 
-##Web Design
+## Web Design
 
-####Inspiration (UI)
+#### Inspiration (UI)
 
 * [Pattern Tap](http://patterntap.com/) UI pattern library
 * [Links to Inspire](http://www.linkstoinspire.co.uk/) Links to inspire you all in one place
@@ -218,7 +218,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ---
 
-####WebDesign Tools
+#### WebDesign Tools
 
 * [Google Web Designer](http://www.google.com/webdesigner/) (★)
 * [Macaw](http://macaw.co/peek/) The code-savvy Web Design Tool
@@ -228,25 +228,25 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 
 ---
 
-####WebDesign Reviews
+#### ebDesign Reviews
 
 * [Red Pen](http://redpen.io/) Effing fast feedback
 * [InVison](http://www.invisionapp.com/)
 
 ---
 
-##Tools & Generators
+## Tools & Generators
 
-####Color & Schemes
+#### Color & Schemes
 
 * [Online Style Guide Generator](http://stylifyme.com/)
 * [Color Hexa](http://www.colorhexa.com/) Information and conversion
 
-####Generators
+#### Generators
 
 * [CSP Is Awesome](http://cspisawesome.com/) Generate a Content-Security-Policy header
 
-####References & Cheat sheets
+#### References & Cheat sheets
 
 * [Favicon cheatsheet](https://github.com/audreyr/favicon-cheat-sheet) A painfully obsessive cheat sheet to favicon sizes/types (★)
 * [Mobile + Tablet Device Dimensions](http://stefhatcher.com/projects/device-dimensions/)
@@ -258,14 +258,14 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Master of the :nth-child](http://nthmaster.com/)
 * [Git cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 
-####Mobile
+#### Mobile
 
 * [A tale of two viewports](http://www.quirksmode.org/mobile/viewports.html)
 * [SpeedLimit](http://mschrag.github.io/), [SlowyApp](http://slowyapp.com/) Throttle a fast internet down (mac app)
 * [CSS critical path snippet](http://paul.kinlan.me/detecting-critical-above-the-fold-css/)
 
 
-####Images
+#### Images
 * [Tiny PNG](http://tinypng.org/) Shrink PNG files
 * [Compress PNG](http://compresspng.com/)
 * [Picture Slash!](http://pictureslash.com)
@@ -273,18 +273,18 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 * [Favicon generator](http://favicon.il.ly/) A really simple favicon generator (with mobile favicons)
 
 
-####Resources
+#### Resources
 
 * [Thestocks.im](http://thestocks.im/) The best royalty free
 stock photos in one place
 * [Pexels](http://www.pexels.com/) Best Free Photos In One Place
 
-####Others
+#### Others
 
 * [Meet the Ipsums](http://meettheipsums.com) Plenty of Lorem Ipsums (still, use real content when you prototype)
 * [Gridzzly](http://gridzzly.com/) Paper grid to print generator
 
-####Fonts & Typography
+#### Fonts & Typography
 
 * [Typographisme](http://typographisme.net/)
 * [Typo Guide](http://www.typogui.de/) Interesting Links & Resources
@@ -296,13 +296,13 @@ stock photos in one place
 * [Redacted font](https://github.com/christiannaths/Redacted-Font) Keep your wireframes free of distracting Lorem Ipsum
 
 
-####Colors
+#### Colors
 
 * [Color Scheme Designer](http://colorschemedesigner.com/)
 * [Color Template](http://www.rocket-design.fr/color-template/)
 * [Kuler](http://kuler.adobe.com/)
 
-##Testing
+## Testing
 
 * [Sauce Labs](https://saucelabs.com/)
 
