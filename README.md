@@ -240,6 +240,7 @@ Originally inspired by the [Landscaping With Front-end Tools](https://github.com
 #### Color & Schemes
 
 * [Online Style Guide Generator](http://stylifyme.com/)
+* [ColorsWall](https://colorswall.com/) Place to store your color palettes and easy generate
 * [Color Hexa](http://www.colorhexa.com/) Information and conversion
 
 #### Generators
